@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NumerosAleatorios.iml" filepath="$PROJECT_DIR$/NumerosAleatorios.iml" />
+      <module fileurl="file://C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\NumerosAleatorios.iml" filepath="C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\NumerosAleatorios.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\app\app.iml" filepath="C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\app\app.iml" />
     </modules>
   </component>
 </project>
